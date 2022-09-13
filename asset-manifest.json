@@ -1,20 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.a868bd5c.css",
-    "main.js": "/static/js/main.8b60f051.js",
+    "main.js": "/static/js/main.22b230e1.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/Yoox.png": "/static/media/Yoox.bcd6de02936923cf0697.png",
+    "static/media/kimaye.png": "/static/media/kimaye.3bf9e9b6f87936da99f0.png",
     "static/media/avatar.png": "/static/media/avatar.9ac3670ee10fe3c8fa00.png",
+    "static/media/myglamm.png": "/static/media/myglamm.bf06c272e6dcea0ee769.png",
+    "static/media/chatify.png": "/static/media/chatify.aac273cbc84013768c68.png",
+    "static/media/apple.png": "/static/media/apple.e3bc130705ba04cfd197.png",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.a868bd5c.css.map": "/static/css/main.a868bd5c.css.map",
-    "main.8b60f051.js.map": "/static/js/main.8b60f051.js.map",
+    "main.22b230e1.js.map": "/static/js/main.22b230e1.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a868bd5c.css",
-    "static/js/main.8b60f051.js"
+    "static/js/main.22b230e1.js"
   ]
 }
