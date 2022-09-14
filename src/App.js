@@ -17,6 +17,7 @@ import {
   Navigate
 } from "react-router-dom";
 import Skills from "./components/Skills/Skills";
+import Projects from "./components/Projects/Projects";
 
 
 
@@ -42,6 +43,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/skills" element={<Skills />} />
+        <Route path="/project" element={<Projects/>}/>
         <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />
