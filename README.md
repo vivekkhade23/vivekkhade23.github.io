@@ -10,7 +10,7 @@ This project was built using these technologies.
 - React-BootStrap 
 - VsCode
 
-
+# Delployment Link:- https://vivekkhade23.github.io/
 
 #Extra Frameworks uses are
 - react-tsparticles
@@ -92,3 +92,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### If you Liked the portfolio please give it a star

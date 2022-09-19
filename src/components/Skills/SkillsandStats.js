@@ -4,6 +4,7 @@ import Particle from "../Particle";
 import Backend from "./Backend";
 import Communication from "./Communication";
 import FrontEnd from "./FrontEnd";
+import Github from "./Github";
 
 function Skills() {
   return (
@@ -25,6 +26,8 @@ function Skills() {
           <strong className="purple">Communication</strong> Skills
         </h1>
 <Communication/>
+<br/>
+<Github/>
 </Container>
 </Container>
     </div>

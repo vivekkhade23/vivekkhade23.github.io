@@ -16,9 +16,10 @@ import {
   Routes,
   Navigate
 } from "react-router-dom";
-import Skills from "./components/Skills/Skills";
+import Skills from "./components/Skills/SkillsandStats";
 import Projects from "./components/Projects/Projects";
 import ResumeNew from "./components/Resume/ResumeNew";
+import Contact from "./components/Contact/contact";
 
 
 
@@ -46,6 +47,8 @@ function App() {
         <Route path="/skills" element={<Skills />} />
         <Route path="/project" element={<Projects/>}/>
         <Route path="/resume" element={<ResumeNew />} />
+        <Route path="/contact" element={<Contact />} />
+
         <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />

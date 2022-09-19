@@ -12,8 +12,10 @@ import {
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
+  AiOutlineContacts,
 } from "react-icons/ai";
 import {GiSkills} from "react-icons/gi"
+
 
 import { CgFileDocument } from "react-icons/cg";
 
@@ -76,7 +78,7 @@ function NavBar() {
                 to="/skills"
                 onClick={() => updateExpanded(false)}
               >
-                <GiSkills style={{ marginBottom: "2px" }} /> Skills
+                <GiSkills style={{ marginBottom: "2px" }} /> Skills & Statistics
               </Nav.Link>
             </Nav.Item>
 
@@ -90,6 +92,19 @@ function NavBar() {
                   style={{ marginBottom: "2px" }}
                 />{" "}
                 Projects
+              </Nav.Link>
+            </Nav.Item>
+
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/contact"
+                onClick={() => updateExpanded(false)}
+              >
+                <AiOutlineContacts
+                  style={{ marginBottom: "2px" }}
+                />{" "}
+                Contacts
               </Nav.Link>
             </Nav.Item>
 
