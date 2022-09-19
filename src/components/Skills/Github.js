@@ -3,7 +3,7 @@ import { Spacer } from "@chakra-ui/react";
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import GitHubCalendar from "react-github-calendar";
-import homeLogo from "../../Assets/home-main.svg";
+
 
 
 function Github() {
