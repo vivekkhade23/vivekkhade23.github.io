@@ -12,25 +12,25 @@ function Contact() {
       <Particle />
       <Container>
       <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="skills">
+      <Col className="skills">
       EmailId:-
-     </Col> <Col xs={4} md={2} className="skills">
+     </Col> <Col  className="skills">
       Khadev881@gmail.com
      </Col>
 </Row>
 <Spacer/>
 <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="skills">
+      <Col  className="skills">
       MObileNO:-
-     </Col> <Col xs={4} md={2} className="skills">
+     </Col> <Col  className="skills">
       +919552039288
      </Col>
 </Row>
 <Spacer/>
 <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="skills">
+      <Col  className="skills">
       LinkedIn:-
-     </Col> <Col xs={4} md={2} className="skills">
+     </Col> <Col  className="skills">
      <li className="social-icons">
               <a
                 href="https://www.linkedin.com/in/vivek-khade-02b655149/"
@@ -46,9 +46,9 @@ function Contact() {
 </Row>
 <Spacer/>
 <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="skills">
+      <Col  className="skills">
       GitHub:-
-     </Col> <Col xs={4} md={2} className="skills">
+     </Col> <Col  className="skills">
      <li className="social-icons">
               <a
                 href="https://github.com/vivekkhade23"
