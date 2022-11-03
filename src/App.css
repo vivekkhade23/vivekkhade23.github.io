@@ -1,7 +1,28 @@
-.App {
+/* .App {
   text-align: center;
+} */
+
+html {
+  scroll-behavior: smooth;
 }
 
+.zoom {
+  transition: transform 1.5s;
+  width: 50%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+
+
+@media  screen and (max-width: 400px) {
+  .homebox {
+  height: 200px;
+  text-align: center;
+  padding-top: 100px;
+  }
+ 
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
