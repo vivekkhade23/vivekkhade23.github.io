@@ -16,9 +16,9 @@ This project was built using these technologies.
 
 ![2022-11-05 (4)](https://user-images.githubusercontent.com/101567990/200113456-222714c1-8486-434e-bf14-6a3312a466ff.png)
 
-![2022-11-05 (2)](https://user-images.githubusercontent.com/101567990/200113463-e2fc68c3-3b21-428a-943b-8d812d831abf.png)
+![2022-11-05 (2)](https://user-images.githubusercontent.com/101567990/200113463-e2fc68c3-3b21-428a-943b-8d812d831abf.png) ![2022-11-05 (5)](https://user-images.githubusercontent.com/101567990/200113479-3aa644ee-701e-4a77-b642-7b98ca27285b.png)
 
-![2022-11-05 (5)](https://user-images.githubusercontent.com/101567990/200113479-3aa644ee-701e-4a77-b642-7b98ca27285b.png)
+
 
 ![2022-11-05](https://user-images.githubusercontent.com/101567990/200113490-605ec6f8-23e4-4f34-85c0-1d8524c19c58.png)
 
