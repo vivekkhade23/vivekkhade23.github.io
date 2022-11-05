@@ -26,13 +26,11 @@ This project was built using these technologies.
 
 
 ## Extra Frameworks uses are
-- react-tsparticles
 (Particle.js is a fantastic JavaScript framework for creating 2d and 3d particle effects on your website)
 - react-parallax-tilt
 (For  Easy tilt hover effect on React components  we use react-parallax-tilt)
 - typewriter-effect
 (It is used to give typing kinda effect)
-- some .svg file are build using https://www.svgviewer.dev/ and  credits are given  in comments to others who inspired the portfolio.
 
 
 ## Features
