@@ -26,7 +26,6 @@ This project was built using these technologies.
 
 
 ## Extra Frameworks uses are
-(Particle.js is a fantastic JavaScript framework for creating 2d and 3d particle effects on your website)
 - react-parallax-tilt
 (For  Easy tilt hover effect on React components  we use react-parallax-tilt)
 - typewriter-effect
