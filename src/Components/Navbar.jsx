@@ -52,6 +52,20 @@ export default function Simple() {
     const toast = useToast();
     const { isOpen, onOpen, onClose } = useDisclosure();
     const { colorMode, toggleColorMode } = useColorMode();
+
+
+    const onClick=()=>{
+        toast({
+            title: "RESUME DOWNLOADED",
+            status: "success",
+            duration: 10000,
+            isClosable: true,
+        });
+        
+        window.open("https://drive.google.com/file/d/1cVeNeFqkncBN31_ELUSzQMRBBOz2wz24/view?usp=share_link", '_blank');
+    }
+
+
     return (
         <>
             <Box
@@ -116,14 +130,17 @@ export default function Simple() {
                                             color: "#c770f0",
                                             fontcolor: "white",
                                         }}
-                                        onClick={() =>
-                                            toast({
-                                                title: "RESUME DOWNLOADED",
-                                                status: "success",
-                                                duration: 10000,
-                                                isClosable: true,
-                                            })
-                                        }
+                                        onClick={onClick}
+                                            // () =>
+                                            // toast({
+                                            //     title: "RESUME DOWNLOADED",
+                                            //     status: "success",
+                                            //     duration: 10000,
+                                            //     isClosable: true,
+                                            // })
+
+
+                                        // }
                                     >
                                         RESUME
                                     </Button>

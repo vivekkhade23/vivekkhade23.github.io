@@ -24,6 +24,20 @@ import Time from "./Time";
 import { BsGithub, BsLinkedin, BsTwitter } from "react-icons/bs";
 export default function Home() {
     const toast = useToast();
+    
+    const onClick=()=>{
+        toast({
+            title: "RESUME DOWNLOADED",
+            status: "success",
+            duration: 10000,
+            isClosable: true,
+        });
+        
+        window.open("https://drive.google.com/file/d/1cVeNeFqkncBN31_ELUSzQMRBBOz2wz24/view?usp=share_link", '_blank');
+    }
+
+
+    
     return (
         <Container maxW={"7xl"} fontFamily="sans-serif" borderRadius="lg" p={8}>
             <Stack
@@ -67,14 +81,7 @@ export default function Home() {
                                     colorScheme={"#0c0513"}
                                     bg={"#c770f0"}
                                     _hover={{ bg: "#6dcff6", color: "white" }}
-                                    onClick={() =>
-                                        toast({
-                                            title: "resume downloaded",
-                                            status: "success",
-                                            duration: 10000,
-                                            isClosable: true,
-                                        })
-                                    }
+                                    onClick={onClick}
                                 >
                                     Resume
                                 </Button>
