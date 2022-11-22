@@ -12,12 +12,21 @@ import {
   Center,
 } from "@chakra-ui/react";
 import Toggl from "../Images/Projects/toggl.png";
-import myglamm from "../Images/Projects/myglamm.png";
+import Nomado from "../Images/Projects/Nomado.png";
 import yoox from "../Images/Projects/Yoox.png";
-import kimaye from "../Images/Projects/kimaye.png"
+import kimaye from "../Images/Projects/kimaye.png";
+
 
 const Project = () => {
   const ProjectData = [
+    {
+      title: "NOMADO TRAVELERS",
+      link: "https://nomadotravelers.netlify.app/",
+      url: "https://github.com/vivekkhade23/Nomado",
+      description:"NOMADO TRAVELERS is a travel fare aggregator website and travel metasearch engine.It is highly inspired by ORBITZ website which is also a travel search engine.",
+      language: " React js | Chakra UI | HTML | CSS | JavaScript  | Redux |Node js | Express js | MongoDB",
+      image: Nomado,
+    },
     {
       title: "Toggl Track ",
       link: "https://toggletrack-ten.vercel.app/",
@@ -25,17 +34,10 @@ const Project = () => {
       description:
         "Toggl Track is a time tracking software operated by Toggl OÜ, that offers online time tracking and reporting services through their website along with mobile and desktop applications. Toggl Track tracks time blocks, optionally labeled with a task, a project, and tags.",
       language:
-        "  React js | Chakra UI | HTML | CSS | JavaScript  | Redux |Node js | Express js",
+        "  React js | Chakra UI | HTML | CSS | JavaScript  | Redux |Node js | Express js | MongoDB",
       image: Toggl,
     },
-    {
-      title: "MYGlamm Clone",
-      link: "https://myglamm-clone-two.vercel.app",
-      url: "https://github.com/vivekkhade23/future-channel-1001",
-      description:"MyGlamm is a direct-to-consumer beauty brand that offers a marketplace for stylists, beauticians, nail, and spa aestheticians.",
-      language: " React js | Chakra UI | CSS",
-      image: myglamm,
-    },
+
     {
       title: "Kimaye Clone",
       link: "https://glistening-banoffee-6aa66c.netlify.app/",

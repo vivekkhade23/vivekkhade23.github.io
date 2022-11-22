@@ -30,32 +30,23 @@ export default function About() {
                     </Heading>
                     <Text color={"gray.600"} fontSize={"1.3rem"}>
                     <h1 style={{ fontSize: "2.0em" }}>
-              LET ME <span> INTRODUCE </span> MYSELF
+            <span> INTRODUCTION </span> 
             </h1>   
-                        I am <b style={{color:"#c770f0"}}> Vivek Khade</b> a Full Stack Web Developer, Currently
-                        located in Nagpur, I am a consistent learner who believe in hard
-                        work.I am fluent in classics like <b style={{color:"#c770f0"}}> Javascript. </b>.
-                        My field of Interest's are building new &nbsp;
+                     <b style={{color:"#c770f0"}}>  A Full Stack Web Developer </b>with 
+                     the ability to learn and collaborate in rapidly changing in environments and compositions. Worked through
+                     <b style={{color:"#c770f0"}}>1200+  hrs </b>of military  style training learning 
+                      <b style={{color:"#c770f0"}}> <i> Javascript, HTML5, CSS3, ReactJs, MongoDB, NodeJS, ExpressJS</i> </b>.
+                       Interested in building new 
               <i>
-                <b style={{color:"#c770f0"}}>programming Launguages projects and React </b> and
+                <b style={{color:"#c770f0"}}> programming Launguages projects and React </b> and
                 also in areas related to{" "}
                 <b style={{color:"#c770f0"}}>
                 React such as Redux.
                 </b>
                 </i>
               <br />
-              Whenever possible, I also apply my passion for developing websites
-              with <b style={{color:"#c770f0"}}>Node.js</b> and
-              <i>
-                <b style={{color:"#c770f0"}}>
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b style={{color:"#c770f0"}}> React.js and Express.js</b>
-              </i>
+
+              
                     </Text>
                 </Stack>
 
