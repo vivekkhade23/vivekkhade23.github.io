@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f4bbf990.css",
+    "main.js": "/static/js/main.5c1b72b6.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/Yoox.png": "/static/media/Yoox.bcd6de02936923cf0697.png",
+    "static/media/kimaye.png": "/static/media/kimaye.3bf9e9b6f87936da99f0.png",
+    "static/media/avatar.png": "/static/media/avatar.9ac3670ee10fe3c8fa00.png",
+    "static/media/Nomado.png": "/static/media/Nomado.a71ce69891c83e5cff65.png",
+    "static/media/Vivek-khade-Resume.pdf": "/static/media/Vivek-khade-Resume.fc7621c7f4acacaf3680.pdf",
+    "static/media/home.png": "/static/media/home.aee0f771fbfc1e7b8fa8.png",
+    "static/media/toggl.png": "/static/media/toggl.89827199c11a5f9266b5.png",
+    "static/media/heroku.png": "/static/media/heroku.4d794195c8b271f7d394.png",
+    "static/media/dsa.png": "/static/media/dsa.3ea4416026bd73503277.png",
+    "index.html": "/index.html",
+    "main.f4bbf990.css.map": "/static/css/main.f4bbf990.css.map",
+    "main.5c1b72b6.js.map": "/static/js/main.5c1b72b6.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4bbf990.css",
+    "static/js/main.5c1b72b6.js"
+  ]
+}
